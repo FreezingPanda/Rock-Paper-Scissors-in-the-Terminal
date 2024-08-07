@@ -1,0 +1,4 @@
+R= Rock
+P= Paper
+S= Scissors
+Q, CTRL + C = Quit
